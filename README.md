@@ -1,6 +1,9 @@
 # **Welcome to the Levinia App!**
 
 ## Aplikasi yang berbasis android dan IOS ini adalah untuk  memenuhi tugas UTS Mobile Programming - IDS Digital Collage
+
+
+Click gambar dibawah untuk memutar video
 [![Watch the video](https://github.com/mahendra022/Levinia/blob/master/assets/mockup/Home.png)](https://youtu.be/6eekmRYjRQc)
 
 
